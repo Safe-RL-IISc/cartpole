@@ -1,0 +1,129 @@
+-90 1.420497312678556
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-80 2.4003479215308214
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-70 2.4268373380833497
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-60 2.431845426424448
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-50 2.3833745963990296
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-40 2.4564581010047584
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-30 2.435266099664312
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-20 2.4447207422426387
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+-10 2.4521532301538786
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+0 2.5610923775089685
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+10 2.499422323479303
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+20 2.690909927545987
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+30 2.396621183463871
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+40 1.74615874250142
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+50 2.7223409770496616
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+60 2.469164995056981
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+70 2.7614087306240513
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+80 2.1508206353313026
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
+====================================
+model has been loaded...
+====================================
+90 0.6037680531235697
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:35: RuntimeWarning: invalid value encountered in double_scalars
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:82: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:98: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+WARNING:matplotlib.legend:No handles with labels found to put in legend.
