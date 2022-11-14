@@ -16,10 +16,10 @@ class ContinuousCartPoleEnv(gym.Env):
         self.masscart = 1.0
         self.masspole = 0.1
         self.total_mass = (self.masspole + self.masscart)
-        self.length = 0.5 
+        self.length = 0.5
         self.polemass_length = (self.masspole * self.length)
         self.force_mag = 30.0
-        self.tau = 0.02  
+        self.tau = 0.02
         self.min_action = -1.0
         self.max_action = 1.0
         self.theta_threshold_radians = 90 * 2 * math.pi / 360
@@ -155,7 +155,7 @@ Any further steps are undefined behavior.
         pole.v = [(l, b), (l, t), (r, t), (r, b)]
 
         x = self.state
-        cartx = x[0] * scale + screen_width / 2.0  
+        cartx = x[0] * scale + screen_width / 2.0
         self.carttrans.set_translation(cartx, carty)
         self.poletrans.set_rotation(-x[2])
 
